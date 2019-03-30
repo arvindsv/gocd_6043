@@ -18,3 +18,4 @@ In order to import this configuration in your Go server.
 
 This is suited to run on development server. The `dev` environment declares `up42` as pipeline members.
 If you don't have `up42` pipeline defined in cruise-config.xml then add one.
+hello
