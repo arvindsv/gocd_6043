@@ -1,5 +1,5 @@
 {
-  "format_version" : 1,
+  "format_version": 4,
   "name": "allmaterials",
   "group" : "configrepo-example",
   "enable_pipeline_locking": true,

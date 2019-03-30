@@ -1,5 +1,5 @@
 {
-  "format_version" : 1,
+  "format_version": 4,
   "name": "firstpipe",
   "environment_variables": [],
   "group" : "configrepo-example",
