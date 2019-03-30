@@ -4,7 +4,7 @@
   "group" : "configrepo-example",
   "enable_pipeline_locking": true,
   "environment_variables": [],
-  "display_order_weight": 10,
+  "display_order_weight": 11,
   "materials": [
     {
       "url": "https://github.com/tomzo/gocd-json-config-example.git",
