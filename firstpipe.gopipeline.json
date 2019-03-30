@@ -3,6 +3,7 @@
   "name": "firstpipe",
   "environment_variables": [],
   "group" : "configrepo-example",
+  "display_order_weight": 1,
   "materials": [
     {
       "url": "https://github.com/tomzo/gocd-json-config-example.git",

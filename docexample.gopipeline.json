@@ -4,6 +4,7 @@
   "enable_pipeline_locking": false,
   "name": "my_pipeline",
   "group" : "configrepo-example",
+  "display_order_weight": 10,
   "tracking_tool": null,
   "timer": null,
   "environment_variables": [],
